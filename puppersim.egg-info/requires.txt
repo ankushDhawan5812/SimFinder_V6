@@ -1,0 +1,7 @@
+pybullet
+attrs
+gym
+numpy
+absl-py
+gin-config
+scipy
